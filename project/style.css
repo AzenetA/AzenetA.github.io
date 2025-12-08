@@ -1,0 +1,67 @@
+#logo{
+    height: 5%;
+    width: 5%;
+    margin: 10px;
+}
+
+body{
+    margin: 0 ;
+    background-color: lavenderblush;
+    font-family: cursive;
+
+}
+
+header{
+    background-color: rgb(247, 189, 247);
+    color:black;
+    padding-bottom: 20px;
+}
+
+
+#links li{
+    display: inline;
+    padding: 15px;
+    font-size: 20px;
+}
+
+#title{
+    display:inline;
+    font-size: 40px;
+}
+
+#links li:hover{
+    background-color: white;
+}
+
+#links a{
+    color:black;
+    text-decoration: none;
+}
+
+table, th, td, caption{
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 30px;
+    
+}
+
+td{
+    text-align: center;
+}
+
+#Hooks1{
+    height: 5%;
+    width: 5%;
+    margin: 10px;
+}
+
+#Hooks2{
+    height: 5%;
+    width: 5%;
+    margin: 10px;
+}
+
+footer{
+    background-color: ghostwhite;
+    color:black
+}
